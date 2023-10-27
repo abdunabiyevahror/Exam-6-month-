@@ -4,14 +4,11 @@ import { Link } from "react-router-dom";
 import { FaBars, FaRegHeart } from "react-icons/fa";
 import { VscChromeClose } from "react-icons/vsc";
 import { MdOutlineLogin } from "react-icons/md";
-// import { BsChevronDown } from "react-icons/bs";
-
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { BiSearch } from "react-icons/bi";
 import Card from "../Card/Card";
-
 const Navbar = () => {
   const [menu, setMenu] = useState({
     isMenu: false,

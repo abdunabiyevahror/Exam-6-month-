@@ -61,7 +61,7 @@ const Contact = () => {
                 </div>
 
                 <div className={classes.iframe}>
-                    <Iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d24117.788271164856!2d69.5976237!3d40.92180735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2s!4v1655381212684!5m2!1sru!2s" width="100%" height="354" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></Iframe>
+                     <Iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.942021986773!2d71.78528987594416!3d40.38797757144412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38bb83a471c6b55b%3A0x9927f2609db0d333!2sNajot%20Ta&#39;lim%20Farg&#39;ona!5e0!3m2!1sen!2s!4v1698413244353!5m2!1sen!2s" width="1250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></Iframe> 
                 </div>
             </div>
         </div>
